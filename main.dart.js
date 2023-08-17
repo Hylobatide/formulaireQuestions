@@ -72002,7 +72002,7 @@ for(h=q.z,s=0;s<3;s=r){r=s+1
 g.push(A.a4k(h[s],new A.pd(p,p,p,"R\xe9ponse fausse "+r,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p),new A.a9v()))}g.push(A.a4k(q.x,A.Fj(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!1,p,p,p,"R\xe9ponse correcte",p,p,p,p,p,p,p,p,p,p,p,p,p),new A.a9w()))
 g.push(A.a4k(q.y,A.Fj(p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!1,p,p,p,"Indice",p,p,p,p,p,p,p,p,p,p,p,p,p),new A.a9x()))
 g.push(A.ho(p,20,p))
-g.push(A.afe(A.a([A.ai2(A.eg("Ajouter Question",p,p,p,p,p,p),q.ga3V()),A.ho(p,p,10),A.ai2(A.eg("Sauvegarder dans un fichier JSON",p,p,p,p,p,p),q.ga2L())],e),B.ch,B.cm,B.eR))
+g.push(A.afe(A.a([A.ai2(A.eg("Ajouter Question",p,p,p,p,p,p),q.ga3V()),A.ho(p,p,10),A.ai2(A.eg("T\xe9l\xe9charger",p,p,p,p,p,p),q.ga2L())],e),B.ch,B.cm,B.eR))
 h=A.U0(g,B.h5,B.cm,B.eR)
 return new A.wk(new A.t5(k,!0,new A.O0(p,p,1/0,56),p),new A.dz(B.AA,A.U0(A.a([new A.CI(20,new A.cr(j,B.q),new A.dz(new A.aO(10,10,10,10),i,p),p),new A.E8(p),new A.up(h,B.fT,q.d)],e),B.ch,B.cm,B.eR),p),p)}}
 A.a9o.prototype={
