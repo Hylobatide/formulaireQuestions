@@ -73200,30 +73200,27 @@ return new A.vk(new A.w7(s),"Formulaire Question pour TeamQuizz",A.akN(s,B.ix,s)
 A.w7.prototype={
 ah(){return A.aw5()}}
 A.zM.prototype={
-a4V(){var s,r,q,p,o,n=this,m=n.d.gJ()
-m.e=!0
-m.GZ()
-if(m.lb()){s=new A.pQ(A.a([],t.s))
-m=n.r
-r=m.a.a
-s.a=r
-if(r==="")s.a="G\xe9ographie"
-r=n.w
-s.b=r.a.a
-q=n.z
-p=A.aa(q).j("ad<1,o>")
-s.c=A.aj(new A.ad(q,new A.aa4(),p),!0,p.j("b7.E"))
-p=n.x
-s.d=p.a.a
-o=n.y
-s.e=o.a.a
-n.e.push(s)
-m.i7(0,B.dZ)
-r.i7(0,B.dZ)
+a4V(){var s,r,q,p,o=this,n=o.d.gJ()
+n.e=!0
+n.GZ()
+if(n.lb()){s=new A.pQ(A.a([],t.s))
+s.a=o.f
+n=o.w
+s.b=n.a.a
+r=o.z
+q=A.aa(r).j("ad<1,o>")
+s.c=A.aj(new A.ad(r,new A.aa4(),q),!0,q.j("b7.E"))
+q=o.x
+s.d=q.a.a
+p=o.y
+s.e=p.a.a
+o.e.push(s)
+o.r.i7(0,B.dZ)
+n.i7(0,B.dZ)
+q.i7(0,B.dZ)
 p.i7(0,B.dZ)
-o.i7(0,B.dZ)
-B.b.Z(q,new A.aa5())
-n.aq(new A.aa6())}},
+B.b.Z(r,new A.aa5())
+o.aq(new A.aa6())}},
 a3J(){var s,r=this.e,q=A.aa(r).j("ad<1,aD<o,K>>")
 q=(self.URL||self.webkitURL).createObjectURL(A.aqp([B.cg.MO(A.ay(["questions",A.aj(new A.ad(r,new A.aa3(),q),!0,q.j("b7.E"))],t.N,t.JD),null)]))
 q.toString
